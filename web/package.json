@@ -20,7 +20,7 @@
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-ga": "3.3.0",
-    "react-i18next": "11.16.1",
+    "react-i18next": "11.16.2",
     "react-loading": "2.0.3",
     "react-otp-input": "2.4.0",
     "react-router-dom": "6.2.2"
@@ -130,7 +130,7 @@
     "@testing-library/react": "12.1.4",
     "@types/node": "16.11.26",
     "@types/qrcode.react": "1.0.2",
-    "@types/react": "17.0.41",
+    "@types/react": "17.0.43",
     "@types/react-dom": "17.0.14",
     "@typescript-eslint/eslint-plugin": "5.16.0",
     "@typescript-eslint/parser": "5.16.0",
