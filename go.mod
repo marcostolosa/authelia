@@ -10,7 +10,7 @@ require (
 	github.com/fasthttp/router v1.4.7
 	github.com/fasthttp/session/v2 v2.4.8
 	github.com/go-ldap/ldap/v3 v3.4.2
-	github.com/go-rod/rod v0.103.0
+	github.com/go-rod/rod v0.104.1
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/go-webauthn/webauthn v0.2.1
 	github.com/golang-jwt/jwt/v4 v4.4.0
